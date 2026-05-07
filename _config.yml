@@ -1,0 +1,19 @@
+title: notfound
+tagline: HTTP/1.1 404 — not the binary you're looking for
+description: Reverse engineering, malware analysis, exploit analysis. Linux x86_64 / ARM / AArch64.
+url: https://notfoundsoft.github.io
+author:
+  name: notfound
+  email: notfoundsoft@gmail.com
+theme: jekyll-theme-hacker
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+permalink: /posts/:slug/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - docs
+  - README.md

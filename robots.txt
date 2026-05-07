@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://notfoundsoft.github.io/sitemap.xml
